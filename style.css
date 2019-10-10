@@ -1,0 +1,44 @@
+ul {
+	background-color:black;
+}
+img{
+	
+}
+.left-content{
+	background-color:grey;
+}
+.con{
+	background-color:grey;
+
+}
+a{
+	font-family: 'Staatliches', cursive;
+	font-size:20px;
+}
+.container-one{
+	background-color:white;
+}
+p{
+	line-height:200%;
+}
+.apple{
+	width:100%;
+}
+.fedex{
+	width:100%;
+}
+.img-1{
+	margin-top:50%;
+	margin-left:15%;
+	width:200%;
+
+}
+.img-2{
+	margin-bottom:10%;
+}
+body{
+	font-family: 'Staatliches', cursive;
+}
+.center{
+	text-align:center;
+}
